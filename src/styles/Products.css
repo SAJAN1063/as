@@ -1,0 +1,25 @@
+.products-page {
+    padding: 2rem 0;
+  }
+  
+  .filters {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .search-input,
+  .category-select {
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .search-input {
+    flex: 1;
+  }
+  
+  .category-select {
+    min-width: 150px;
+  }
