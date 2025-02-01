@@ -9,7 +9,7 @@ const About = () => {
         
         <section className="about-content">
           <div className="about-image">
-            <img src="/assets/images/about-us.jpg" alt="AS+ Professionals Team" />
+            <img src="/assets/images/team.png" alt="AS+ Professionals Team" />
           </div>
           
           <div className="about-text">
@@ -32,7 +32,8 @@ const About = () => {
         <section className="team-section">
           <h2>Our Team</h2>
           <div className="team-grid">
-            {/* Add team member cards here */}
+            {"Swati Gupta"} <br></br>
+            {"Rakesh Kumar"}
           </div>
         </section>
       </div>

@@ -1,19 +1,19 @@
 export const testimonials = [
     {
       id: 1,
-      name: "Sarah Johnson",
+      name: "Aashi Gupta",
       rating: 5,
-      comment: "The Vitamin C serum completely transformed my skin! I've been using it for 3 months and the results are amazing.",
+      comment: "Everything is just perfect for all skin types. don't think just buy it!",
       date: "2024-01-15",
-      image: "/assets/images/testimonial1.jpg"
+      image: "/assets/images/aashi.jpg"
     },
     {
       id: 2,
-      name: "Michael Chen",
+      name: "Shruti Gupta",
       rating: 5,
-      comment: "Best skincare products I've ever used. The moisturizer is perfect for my sensitive skin.",
+      comment: "Best skincare products I've ever used. The Toner is perfect for my sensitive skin.",
       date: "2024-01-20",
-      image: "/assets/images/testimonial2.jpg"
+      image: "/assets/images/shruti.jpg"
     },
     // Add more testimonials...
   ];

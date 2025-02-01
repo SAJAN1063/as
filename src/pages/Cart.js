@@ -17,6 +17,9 @@ const Cart = () => {
     navigate('/checkout');
   };
 
+  // Calculate Total Price
+  const totalPrice = cart.items.reduce((total, item) => total + item.price * item.quantity, 0);
+
   return (
     <div className="cart-page">
       <div className="container">
@@ -66,7 +69,7 @@ const Cart = () => {
             <div className="cart-summary">
               <div className="cart-total">
                 <h2>Total</h2>
-                <p>${cart.total.toFixed(2)}</p>
+                <p>${totalPrice.toFixed(2)}</p>
               </div>
               <button 
                 className="checkout-button" 

@@ -21,12 +21,12 @@ const Contact = () => {
               
               <div className="contact-item">
                 <h3>Phone</h3>
-                <p>(555) 123-4567</p>
+                <p>(+91) 7985611032</p>
               </div>
               
               <div className="contact-item">
                 <h3>Address</h3>
-                <p>123 Beauty Street<br />Style City, ST 12345</p>
+                <p>Lane No.4, Nirala Nagar<br />Mehmoorganj, Varanasi 221010</p>
               </div>
               
               <div className="contact-item">

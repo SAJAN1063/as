@@ -54,7 +54,7 @@ export const products = [
       name: "hydra Toner",
       category: "Skincare",
       price: 300,
-      image: "/assets/images/cucumber toner.png",
+      image: "/assets/images/hydra toner.png",
       description: "Deep hydration with pure hyaluronic acid for all skin types.",
       features: ["Hydrating", "Non-greasy", "All skin types"],
       inStock: true
@@ -64,7 +64,7 @@ export const products = [
       name: "Hyaluronic Toner",
       category: "Skincare",
       price: 300,
-      image: "/assets/images/cucumber toner.png",
+      image: "/assets/images/hyaluronic toner.png",
       description: "Deep hydration with pure hyaluronic acid for all skin types.",
       features: ["Hydrating", "Non-greasy", "All skin types"],
       inStock: true
